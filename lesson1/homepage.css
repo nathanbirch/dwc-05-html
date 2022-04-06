@@ -1,0 +1,16 @@
+p {
+  font-size: 30px;
+  width: 100%;
+}
+
+.greenText {
+  color: #44e46c;
+}
+
+.centeredText {
+  text-align: center;
+}
+
+#awesomeId {
+  width: 100px;
+}
