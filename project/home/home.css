@@ -1,0 +1,25 @@
+.pageContent {
+  margin: 20px;
+  width: 80%;
+  margin: 2% auto;
+}
+
+.pageContent img {
+  width: 50%;
+}
+
+.familyPhoto {
+  width: 100%;
+  max-width: 800px;
+  display: block;
+  margin: 0 auto;
+}
+
+.fullSizeImage {
+  width: 100%;
+}
+
+.awesomeText {
+  color: blue;
+  font-weight: 900;
+}
